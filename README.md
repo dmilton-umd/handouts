@@ -1,7 +1,7 @@
 # handouts
 This is a file to assist in learning how to use git and github. 
-# What does a hashtag do? 
-## What do two do? 
+All doodles here created by Don Milton
+
 
 It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [link to Google!](http://google.com)
 
@@ -22,8 +22,6 @@ It's very easy to make some words **bold** and other words *italic* with Markdow
    1. Item 3a
    1. Item 3b
 
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
 
 As Kanye West said:
 
